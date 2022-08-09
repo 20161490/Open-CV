@@ -1,0 +1,34 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(477,5): warning MSB8004: Output 디렉터리가 슬래시로 끝나지 않습니다. Output 디렉터리의 적절한 평가를 허용하는 데 필요하므로 이 빌드 인스턴스에서 슬래시를 추가합니다.
+  main.cpp
+C:\Users\firstpc\source\repos\비전\CV\Practice2-5\main.cpp(7,1): warning C4326: 'main'의 반환 형식이 'int'이어야 하는데 'void'입니다.
+C:\Users\firstpc\source\repos\비전\CV\Practice2-5\main.cpp(28,30): warning C4244: '인수': 'double'에서 '_Tp'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\firstpc\source\repos\비전\CV\Practice2-5\main.cpp(29,37): warning C4244: '인수': 'double'에서 '_Tp'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\firstpc\source\repos\비전\CV\Practice2-5\main.cpp(29,30): warning C4244: '인수': 'double'에서 '_Tp'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\firstpc\source\repos\비전\CV\Practice2-5\main.cpp(30,33): warning C4244: '인수': 'double'에서 '_Tp'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Tp=float
+          ]
+C:\Users\firstpc\source\repos\비전\CV\Practice2-5\main.cpp(32,29): warning C4244: '인수': 'double'에서 '_Tp'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\firstpc\source\repos\비전\CV\Practice2-5\main.cpp(32,22): warning C4244: '인수': 'double'에서 '_Tp'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+          with
+          [
+              _Tp=int
+          ]
+  Practice2-5.vcxproj -> C:\Users\firstpc\source\repos\비전\CV\bin\Practice2-5d.exe
